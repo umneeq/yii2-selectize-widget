@@ -30,7 +30,7 @@
     },
     "autoload": {
         "psr-4": {
-            "dosamigos\\selectize\\": "src"
+            "umneeq\\selectize\\": "src"
         }
     },
     "config": {
